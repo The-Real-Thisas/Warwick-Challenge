@@ -47,7 +47,7 @@ class Main(pyforms.basewidget.BaseWidget):
 
 
   def __init__(self):
-    super(Main, self).__init__("Wolfram Alpha Calculator")
+    super(Main, self).__init__("SmartCal")
 
     self.question = pyforms.controls.ControlLabel(" ")
     self.question.value = '' #contain value for calculating purposes
