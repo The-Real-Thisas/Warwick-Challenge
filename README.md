@@ -1,5 +1,7 @@
 # Warwick-Challenge
 
+[![logo](/img/logo.png)]()
+
 # PROJECT GOALS
 
 AI and machine learning have been used heavily in the past decade for commercial application and the development that has taken place has bled into the consumer world. For instance suggestions on streaming services like Netflix and Hulu. When starting our project we knew we wanted to make use of these tools to enhance the user experience without increasing the complexity of the system which seems like an impossible task at first glance. But as we found out during the creation of the project, it is easier that we thought.
