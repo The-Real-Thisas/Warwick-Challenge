@@ -1,6 +1,6 @@
 # Warwick-Challenge
 
-[![logo](/img/logo.png)]()
+[![logo](/img/1.png)]()
 
 # PROJECT GOALS
 
